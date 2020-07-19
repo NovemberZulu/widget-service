@@ -1,0 +1,4 @@
+spring:
+  profiles: dev
+defaultPageSize: 10
+maxPageSize: 500
